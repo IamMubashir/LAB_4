@@ -1,2 +1,4 @@
 cout<<"The Sum of two numbers is: "<< a+b <<endl;
 cout<<"The subtraction of two numbers is: "<<a-b<<endl;
+
+cout<<"The product of two numbers is: "<<a*b<<endl;
